@@ -1,0 +1,122 @@
+1495662619581	geckodriver	INFO	Listening on 127.0.0.1:53846
+1495662619624	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662621209	Marionette	INFO	Listening on port 53853
+1495662621285	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:50:21.578 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:50:21.580 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662637630	Marionette	INFO	New connections will no longer be accepted
+1495662683351	geckodriver	INFO	Listening on 127.0.0.1:53988
+1495662683391	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662684953	Marionette	INFO	Listening on port 53995
+1495662685123	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:51:25.434 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:51:25.436 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662697527	Marionette	INFO	New connections will no longer be accepted
+1556103998160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/09/vfml93yx3tz7tx4qf3sdgcr40000gp/T/rust_mozprofile.07Uo6tAJbir8"
+1556103999704	Marionette	INFO	Enabled via --marionette
+2019-04-24 13:06:40.600 plugin-container[67157:2290167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:06:40.748 plugin-container[67157:2290167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x97b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:06:40.769 plugin-container[67157:2290167] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11287f040 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:06:40.771 plugin-container[67157:2290178] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1556104000943	Marionette	INFO	Listening on port 51521
+1556104001037	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-04-24 13:06:42.237 plugin-container[67158:2290271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:06:42.370 plugin-container[67158:2290271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1377, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:06:42.378 plugin-container[67158:2290271] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x113b22100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:06:42.380 plugin-container[67158:2290280] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+1556104117452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/09/vfml93yx3tz7tx4qf3sdgcr40000gp/T/rust_mozprofile.T8rusXmTPoNo"
+1556104119076	Marionette	INFO	Enabled via --marionette
+2019-04-24 13:08:39.967 plugin-container[67198:2291914] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:08:40.120 plugin-container[67198:2291914] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x147b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:08:40.146 plugin-container[67198:2291914] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109bc5f40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:08:40.148 plugin-container[67198:2291916] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1556104120445	Marionette	INFO	Listening on port 52156
+1556104120450	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-04-24 13:08:41.771 plugin-container[67199:2292142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:08:41.918 plugin-container[67199:2292142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1477, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:08:41.927 plugin-container[67199:2292142] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109523100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:08:41.929 plugin-container[67199:2292157] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1556104369160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/09/vfml93yx3tz7tx4qf3sdgcr40000gp/T/rust_mozprofile.AqQdzF2iy6Rv"
+*** You are running in headless mode.
+1556104370671	Marionette	INFO	Enabled via --marionette
+2019-04-24 13:12:52.233 plugin-container[67366:2294493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:12:52.371 plugin-container[67366:2294493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa7b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:12:52.382 plugin-container[67366:2294493] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10f5142e0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:12:52.385 plugin-container[67366:2294505] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1556104372413	Marionette	INFO	Listening on port 53353
+1556104372433	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-04-24 13:12:54.245 plugin-container[67367:2294587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:12:54.371 plugin-container[67367:2294587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x133b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:12:54.379 plugin-container[67367:2294587] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10ee22100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:12:54.381 plugin-container[67367:2294591] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: error
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d3tw2n86njn6hp.cloudfront.net/packs/secure-be3367278e7de928a064.js, line 1588: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1556104447312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/09/vfml93yx3tz7tx4qf3sdgcr40000gp/T/rust_mozprofile.XNvcvErw8qSo"
+*** You are running in headless mode.
+1556104448843	Marionette	INFO	Enabled via --marionette
+2019-04-24 13:14:09.616 plugin-container[67390:2295362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:14:09.762 plugin-container[67390:2295362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x93f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:14:09.773 plugin-container[67390:2295362] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1081142e0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:14:09.776 plugin-container[67390:2295373] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1556104449823	Marionette	INFO	Listening on port 53833
+1556104449918	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-04-24 13:14:11.288 plugin-container[67391:2295457] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:14:11.413 plugin-container[67391:2295457] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x137b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-04-24 13:14:11.421 plugin-container[67391:2295457] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x115f22100 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-04-24 13:14:11.423 plugin-container[67391:2295462] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
